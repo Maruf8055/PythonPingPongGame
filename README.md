@@ -17,10 +17,10 @@ How to Run the App
 3. Gameplay: Input player names, then control your paddles as described above. The game runs until a player reaches 10 points.
 
 Gameplay Instructions
-Player 1 Controls:
+1. Player 1 Controls:
 Move Up: W
 Move Down: S
-Player 2 Controls:
+2. Player 2 Controls:
 Move Up: UP Arrow
 Move Down: DOWN Arrow
 Pause Game: Press P
