@@ -10,11 +10,10 @@ pygame_menu: A library for creating menus in Pygame applications.
 CSV: For data logging and score tracking.
 
 How to Run the App
-1. Install Dependencies: Make sure you have Python and the necessary libraries installed. You can install Pygame and pygame_menu using
-
-2. Run the Game: Execute the main Python script
-
-3. Gameplay: Input player names, then control your paddles as described above. The game runs until a player reaches 10 points.
+1.Clone the Repository
+2. Install Dependencies: Make sure you have Python and the necessary libraries installed.
+3. Run the Game
+4. Gameplay: Input player names, then control your paddles as described above. The game runs until a player reaches 10 points.
 
 Gameplay Instructions
 1. Player 1 Controls:
